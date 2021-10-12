@@ -13,7 +13,7 @@ Routine and Discipline show the difference between the practical software develo
 ## Customer Value, Minium value Product
 To recruit Helene, a young talent, John meets her at a burger restaurant. Helene is amazed at John as a star chef about the place and how John explains a burger. A burger or a goulash is enough for ordinary people. These meals have a long history in culture and are the basics of starred cuisine. Still, a good burger needs good ingredients and requires craftsmanship.
 
-In software development, this means customers sometimes do not need to build cathedrals. It is often more important to focus on customer needs and keep prototypes simple.
+In software development, this means customers sometimes do not need cathedrals. It is often more important to focus on customer needs and keep prototypes simple.
 
 ## Turning Point
 John seems arrogant to those around him, which he admits. Nevertheless, his team and his competitors are excited and fascinated by his talent. Many young chefs endure his unfriendly and pale behavior only because of his reputation.

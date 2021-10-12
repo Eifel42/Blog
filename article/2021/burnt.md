@@ -5,7 +5,7 @@ It is challenging to explain agile or lean methods to customers or outsiders. In
 
 In the movie Burnt, the main character John Adam went through an agile transformation. John Adam is a talented star chef and is trying his comeback in London. Years ago, he failed in Paris to cook his next stars. This failure drove John into madness; John ruined his mentor's restaurant and fell into parties and drugs as a young rock star.
 
-##Routine and Discipline
+## Routine and Discipline
 At the beginning of the film, John works as a conventional oyster cook in New Orleans. As penance, he sentenced himself to open a million oysters.
 
 Routine and Discipline show the difference between the practical software developer and the ivory tower. Today there is a variety of better and more intelligent developments tools. The complexity of development and systems has increased with Microservices and Cloud Computing. Practices like clean code are still essential for software development.

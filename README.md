@@ -1,2 +1,3 @@
 # Blog
-Blog Article
+
+This repository contains public blog posts and articles.

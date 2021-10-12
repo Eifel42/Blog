@@ -11,7 +11,7 @@ At the beginning of the film, John works as a conventional oyster cook in New Or
 Routine and Discipline show the difference between the practical software developer and the ivory tower. Today there is a variety of better and more intelligent developments tools. The complexity of development and systems has increased with Microservices and Cloud Computing. Practices like clean code are still essential for software development.
 
 ## Customer Value, Minium value Product
-To recruit Helene, a young talent, John meets her at a burger restaurant. Helene is amazed at John as a star chef about the place and how John explains a burger. A burger or a goulash is enough for working people. Still, a good burger needs good ingredients and requires craftsmanship.
+To recruit Helene, a young talent, John meets her at a burger restaurant. Helene is amazed at John as a star chef about the place and how John explains a burger. A burger or a goulash is enough for ordinary people. These meals have a long history in culture and are the basics of starred cuisine. Still, a good burger needs good ingredients and requires craftsmanship.
 
 In software development, this means customers sometimes do not need to build cathedrals. It is often more important to focus on customer needs and keep prototypes simple.
 

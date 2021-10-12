@@ -3,4 +3,4 @@
 This repository contains public blog posts and articles.
 
 ## Article
-- [title](article/2021/burnt.md)
+- [Burnt, can a star chef act agile?](article/2021/burnt.md)

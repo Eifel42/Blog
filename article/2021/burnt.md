@@ -1,4 +1,4 @@
-#Burnt, can a star chef act agile? 
+# Burnt, can a star chef act agile? 
 (Second version)
 
 It is challenging to explain agile or lean methods to customers or outsiders. In the agile environment, many examples and metaphors from software development dominate. In lean, many examples are from industrial production, especially Toyota. 
@@ -9,12 +9,13 @@ In the movie Burnt, the main character John Adam went through an agile transform
 At the beginning of the film, John works as a conventional oyster cook in New Orleans. As penance, he sentenced himself to open a million oysters.
 
 Routine and Discipline show the difference between the practical software developer and the ivory tower. Today there is a variety of better and more intelligent developments tools. The complexity of development and systems has increased with Microservices and Cloud Computing. Practices like clean code are still essential for software development.
-Customer Value, Minium value Product
+
+## Customer Value, Minium value Product
 To recruit Helene, a young talent, John meets her at a burger restaurant. Helene is amazed at John as a star chef about the place and how John explains a burger. A burger or a goulash is enough for working people. Still, a good burger needs good ingredients and requires craftsmanship.
 
 In software development, this means customers sometimes do not need to build cathedrals. It is often more important to focus on customer needs and keep prototypes simple.
 
-##Turning Point
+## Turning Point
 John seems arrogant to those around him, which he admits. Nevertheless, his team and his competitors are excited and fascinated by his talent. Many young chefs endure his unfriendly and pale behavior only because of his reputation.
 
 As a chef, he tries to control everything down to the last detail. His behavior drives his employees crazy. John does not realize what innovative treasure of talents he leads.

@@ -1,0 +1,7 @@
+# Intel NC2 Gaze Control
+
+Intel NC2 Gaze Control is a pyhton project at the Udacity Nanodegree Intel Edge AI forIoT Developer. 
+This project controls the mouse using the gaze by creating a computervision pipeline. 
+The pipeline detects the face and gives the head pose and the eyelocations.
+
+- [Computer Pointer Controller](https://github.com/Eifel42/intel-nc2-gaze-control)

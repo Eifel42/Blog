@@ -1,0 +1,7 @@
+# Ubuntu Multipass
+
+For new set-ups, Linux developments and test environments were Docker or OracleVirtual Box top choices. To test container systems like Docker or container orchestration like Kubernetes, it makes much sense to try it on Linux servers instead of Desktop Operation System. In Machine Learning development, is it best practice to set up a new fresh environment.
+
+Ubuntu Multipass provides an easy way to create new Linux server instances on a host system. It works fast and strong under an Ubuntu Desktop as the host system.
+
+- [Ubuntu Mulitpass](https://multipass.run/) 

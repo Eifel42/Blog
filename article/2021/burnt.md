@@ -26,9 +26,8 @@ John realizes his mistakes and gives his employees more freedom. He now treated 
 
 At the end of the film, John earns his third star. John relies on his team for this Michelin test.
 
+## Links
 [Wiki Burnt](https://en.wikipedia.org/wiki/Burnt_(film))
-
 [Augenhoehe](https://augenhoehe-film.de)
-
 [Agile Manifesto](https://agilemanifesto.org)
 

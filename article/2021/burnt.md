@@ -11,14 +11,12 @@ At the beginning of the film, John works as a conventional oyster cook in New Or
 Routine and Discipline show the difference between the practical software developer and the ivory tower. Today there is a variety of better and more intelligent developments tools. The complexity of development and systems has increased with Microservices and Cloud Computing. Practices like clean code are still essential for software development.
 
 ## Customer Value, Minium value Product
-To recruit Helene, a young talent, John meets her at a burger restaurant. Helene is amazed at John as a star chef about the place and how John explains a burger. A burger or a goulash is enough for ordinary people. These meals have a long history in culture and are the basics of starred cuisine. Still, a good burger needs good ingredients and requires craftsmanship.
+To recruit Helene, a young talent, John meets her at a burger restaurant. Helene is amazed at John as a star chef about the place and how John explains a burger. A burger or a goulash is suitable for ordinary people. These meals have a long history in culture and are the basics of starred cuisine. Still, a good burger needs good ingredients and requires craftsmanship.
 
 In software development, this means customers sometimes do not need cathedrals. It is often more important to focus on customer needs and keep prototypes simple.
 
 ## Turning Point
-John seems arrogant to those around him, which he admits. Nevertheless, his team and his competitors are excited and fascinated by his talent. Many young chefs endure his unfriendly and pale behavior only because of his reputation.
-
-As a chef, he tries to control everything down to the last detail. His behavior drives his employees crazy. John does not realize what innovative treasure of talents he leads.
+John seems arrogant to those around him. Nevertheless, his team and his competitors are excited and fascinated by his talent. Many young chefs endure his unfriendly and pale behavior only because of his reputation. John acts like a prima donna, but his character has some vital points of being an entrepreneur. He has the vision of the best star restaurant this the best customer value. Although John seems like a prima donna, his character is delightful. Hellen, his strongest competitor, and almost his entire team stand by in the greatest crisis. As a chef, he tries to control everything down to the last detail. His behavior drives his employees crazy. John does not realize what innovative treasure of talents he leads.
 
 The turning point in the story is a test for the third star. John falls into his perfection and micromanagement. The Michelin testers get a poor menu. A co-worker from the time in Paris took revenge for his behavior in Paris. John falls into his old habits and goes through a very wild night. The supposed Michelin testers were ordinary business travelers, and it was a false alarm.
 

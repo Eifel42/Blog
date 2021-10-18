@@ -28,5 +28,5 @@ At the end of the film, John earns his third star. John relies on his team for t
 - [Wiki Burnt](https://en.wikipedia.org/wiki/Burnt_(film))
 - [Augenhoehe](https://augenhoehe-film.de)
 - [Agile Manifesto](https://agilemanifesto.org)
-- [GitHub Blog](https://github.com/Eifel42/Blog/edit/main/article/2021/burnt.md)
+- [GitHub Blog](https://github.com/Eifel42/Blog/blob/main/article/2021/burnt.md)
 

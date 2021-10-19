@@ -1,4 +1,4 @@
-Creative Commons Attribution-NonCommercial 4.0 International
+# Creative Commons Attribution-NonCommercial 4.0 International
 
 Creative Commons Corporation ("Creative Commons") is not a law firm and
 does not provide legal services or legal advice. Distribution of
@@ -10,7 +10,7 @@ terms and conditions, or any related information. Creative Commons
 disclaims all liability for damages resulting from their use to the
 fullest extent possible.
 
-Using Creative Commons Public Licenses
+## Using Creative Commons Public Licenses
 
 Creative Commons public licenses provide a standard set of terms and
 conditions that creators and other rights holders may use to share
@@ -30,7 +30,7 @@ exhaustive, and do not form part of our licenses.
     not subject to the license. This includes other CC-licensed
     material, or material used under an exception or limitation to
     copyright. More considerations for licensors :
-    wiki.creativecommons.org/Considerations\_for\_licensors
+    [wiki.creativecommons.org/Considerations\_for\_licensors]([wiki.creativecommons.org/Considerations\_for\_licensors])
 
 -   Considerations for the public: By using one of our public licenses,
     a licensor grants the public permission to use the licensed material
@@ -47,8 +47,7 @@ exhaustive, and do not form part of our licenses.
     requests where reasonable. More considerations for the public :
     wiki.creativecommons.org/Considerations\_for\_licensees
 
-Creative Commons Attribution-NonCommercial 4.0 International Public
-License
+## Creative Commons Attribution-NonCommercial 4.0 International Public License
 
 By exercising the Licensed Rights (defined below), You accept and agree
 to be bound by the terms and conditions of this Creative Commons

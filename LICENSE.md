@@ -349,4 +349,5 @@ licensed material. For the avoidance of doubt, this paragraph does not
 form part of the public licenses.
 
 Creative Commons may be contacted at [creativecommons.org](https://creativecommons.org).
+
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)

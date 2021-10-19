@@ -30,3 +30,6 @@ At the end of the film, John earns his third star. John relies on his team for t
 - [Agile Manifesto](https://agilemanifesto.org)
 - [GitHub Blog](https://github.com/Eifel42/Blog/blob/main/article/2021/burnt.md)
 
+## License
+[!License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+
